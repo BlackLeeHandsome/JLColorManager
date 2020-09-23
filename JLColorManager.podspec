@@ -94,8 +94,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "UIColor+JW", "*.swift"
-  # spec.exclude_files = "UIColor+JW"
+  spec.source_files  = "UIColor+HEX", "*.swift"
+  # spec.exclude_files = "UIColor+HEX"
 
   # spec.public_header_files = "Classes/**/*.h"
 
