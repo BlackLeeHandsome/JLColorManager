@@ -1,9 +1,9 @@
 //
 //  UIColor+HEX.swift
-//  UpClassiPhone
+//  JiShiQiangDan
 //
-//  Created by JL on 2018/8/3.
-//  Copyright © 2018年 Abc360. All rights reserved.
+//  Created by Li Dong on 2020/9/23.
+//  Copyright © 2020 dongdonghua. All rights reserved.
 //
 
 import UIKit
@@ -28,6 +28,3 @@ extension UIColor {
         return UIColor(rgb:int,alpha: alpha)
     }
 }
-
-
-
